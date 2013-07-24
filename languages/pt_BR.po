@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: MapPress 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-13 15:29-0300\n"
-"PO-Revision-Date: 2013-05-13 15:29-0300\n"
-"Last-Translator: Miguel Peixe <miguel@cardume.art.br>\n"
+"PO-Revision-Date: 2013-07-24 19:43-0300\n"
+"Last-Translator: Diego Rabatone Oliveira <diraol@diraol.eng.br>\n"
 "Language-Team: Cardume <contato@cardume.art.br>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -155,13 +155,13 @@ msgstr "Fixa"
 #: ../metaboxes/mapbox/mapbox.php:91
 #: ../metaboxes/mapbox/mapbox.php:154
 msgid "Switchable"
-msgstr ""
+msgstr "Alternável"
 
 #: ../metaboxes/mapbox/mapbox.php:28
 #: ../metaboxes/mapbox/mapbox.php:93
 #: ../metaboxes/mapbox/mapbox.php:156
 msgid "Swapable"
-msgstr ""
+msgstr "Trocável"
 
 #: ../metaboxes/mapbox/mapbox.php:31
 #: ../metaboxes/mapbox/mapbox.php:96
@@ -179,7 +179,7 @@ msgstr "Oculto"
 #: ../metaboxes/mapbox/mapbox.php:101
 #: ../metaboxes/mapbox/mapbox.php:164
 msgid "Default swap option"
-msgstr ""
+msgstr "Opção padrão de troca"
 
 #: ../metaboxes/mapbox/mapbox.php:50
 msgid "MapBox Setup"
@@ -187,11 +187,11 @@ msgstr "Configurações do MapBox"
 
 #: ../metaboxes/mapbox/mapbox.php:69
 msgid "First, define your map server. Most likely you will be using the MapBox default servers. If not and you know what you are doing, feel free to type your own TileStream server url below."
-msgstr ""
+msgstr "Primeiro defina seu servidor de mapa. Provavelmente você utilizará um servidor padrão do MapBox. Se não utilizar e você souber o que está fazendo, sinta-se à vontade para adicionar abaixo seu próprio servidor TileStream."
 
 #: ../metaboxes/mapbox/mapbox.php:71
 msgid "Use MapBox servers"
-msgstr ""
+msgstr "Utilizar servidores do MapBox"
 
 #: ../metaboxes/mapbox/mapbox.php:71
 msgid "(default)"
@@ -199,7 +199,7 @@ msgstr "(padrão)"
 
 #: ../metaboxes/mapbox/mapbox.php:72
 msgid "Use custom TileStream server"
-msgstr ""
+msgstr "Utilizar servidor TileStream customizado"
 
 #: ../metaboxes/mapbox/mapbox.php:75
 msgid "Edit the default layer and fill the IDs of the maps to overlay layers of your map, in order of appearance"
@@ -839,35 +839,35 @@ msgstr "Opções foram atualizadas."
 
 #: ../inc/admin/admin-page-framework.php:1194
 msgid "The file is bigger than this PHP installation allows."
-msgstr ""
+msgstr "Este arquivo é maior que o limite atual do PHP."
 
 #: ../inc/admin/admin-page-framework.php:1195
 msgid "The file is bigger than this form allows."
-msgstr ""
+msgstr "Este arquivo é maior que o limite do formulário."
 
 #: ../inc/admin/admin-page-framework.php:1196
 msgid "Only part of the file was uploaded."
-msgstr ""
+msgstr "Apenas parte do arquivo foi enviada."
 
 #: ../inc/admin/admin-page-framework.php:1197
 msgid "No file was uploaded."
-msgstr ""
+msgstr "Nenhum arquivo enviado."
 
 #: ../inc/admin/admin-page-framework.php:1202
 msgid "Import Error: Wrong file type."
-msgstr ""
+msgstr "Erro de importação: Tipo de arquivo inválido."
 
 #: ../inc/admin/admin-page-framework.php:1208
 msgid "Import Error: Wrong text format."
-msgstr ""
+msgstr "Erro de importação: Formato de texto inválido."
 
 #: ../inc/admin/admin-page-framework.php:1230
 msgid "The importing process has been failed."
-msgstr ""
+msgstr "Falha no processo de importação."
 
 #: ../inc/admin/admin-page-framework.php:1241
 msgid "Options were imported."
-msgstr ""
+msgstr "Opções importadas com sucesso."
 
 #: ../inc/admin/admin-page-framework.php:1538
 msgid "Settings"
@@ -875,16 +875,16 @@ msgstr "Configurações"
 
 #: ../inc/admin/admin-page-framework.php:1565
 msgid "Powered by"
-msgstr ""
+msgstr "Oferecido por"
 
 #: ../inc/admin/admin-page-framework.php:2220
 #: ../inc/admin/admin-page-framework.php:2247
 msgid "Export Options"
-msgstr ""
+msgstr "Opções de exportação"
 
 #: ../inc/admin/admin-page-framework.php:2267
 msgid "Import Options"
-msgstr ""
+msgstr "Opções de importação"
 
 #: ../inc/admin/admin-page-framework.php:2476
 #: ../inc/admin/admin-page-framework.php:2496
@@ -893,11 +893,11 @@ msgstr "Enviar"
 
 #: ../inc/admin/admin-page-framework.php:2545
 msgid "Delete Image"
-msgstr ""
+msgstr "Apagar imagem"
 
 #: ../inc/admin/admin-page-framework.php:2546
 msgid "Unset Image"
-msgstr ""
+msgstr "Desativar imagem"
 
 #: ../inc/admin/admin-page-framework.php:2583
 msgid "No url has been set."
